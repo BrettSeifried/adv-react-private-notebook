@@ -41,7 +41,7 @@ The [Redirect (Auth) Example](https://v5.reactrouter.com/web/example/auth-workfl
 
 # Plan
 
-[] Private Route redirec to login if not logged in - boolean for logged in? set to false when going there if not logged in.
+[x] Private Route redirec to login if not logged in - boolean for logged in? set to false when going there if not logged in.
 [] Auth view, complete onSubmit handler
 [] sign up or sign in through users.js
 [] sucessful sign in, id and email set in context.
